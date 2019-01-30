@@ -2,8 +2,8 @@
   "name" : "sunnyholyd.github",
   "fileExtension" : ".md",
   "autoUploadInsertedImage" : false,
-  "folderType" : 10,
-  "mediaFloder" : "..\/assets\/images\/201901",
+  "folderType" : 11,
+  "mediaFloder" : "\/assets\/images\/201901",
   "orderBy" : 0,
   "newlinesToBR" : 0
 }
