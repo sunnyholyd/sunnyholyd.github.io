@@ -118,7 +118,7 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  #categories: /categories/
+  categories: /categories/
   #about: /about/
   archives: /archives/
   tags: /tags/
@@ -462,7 +462,7 @@ gitalk:
 #google_site_verification:
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-133580652-1
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
@@ -523,9 +523,9 @@ rating:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true 
+  app_id: BiPXKOhW1iaku8p4cxX3Fzmm-gzGzoHsz
+  app_key: yW3kRjip9Hzwv4B7OgLA8ccH
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
