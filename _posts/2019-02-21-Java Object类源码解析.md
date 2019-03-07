@@ -1,7 +1,7 @@
 ---
 title: Java Object类源码解析
 description: 
-    - 本文主要介绍了
+    - 本文主要介绍了 Java 中最基本的类--Object，作为所有的类都要继承的类，让我们来看一看它的设计与实现都有什么奥秘。
 categories: Java
 tags: 
     - Java
@@ -15,6 +15,7 @@ Object 作为类层次结构中的根类，是每一个类的父类。Object 类
 
 #### 2.方法列表
 ---
+
 方法名 | 访问权限 | 说明
 --- | --- | ---
 getClass | public,final,native | 返回当前对象的运行时 Class 对象。
